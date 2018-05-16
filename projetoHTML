@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" http-equiv="Content Type" content="text/html">
+	<link href="https://fonts.googleapis.com/css?family=Raleway:300" rel="stylesheet">
+	<title>Anaísa</title>
+	<link rel="stylesheet" scr="//normalize-css.googlecode.com/svn/trunk/normalize.css">
+	<style>
+		.grid {
+    		margin: 0 auto;
+   			max-width: 1200px;
+    		width: 100%;
+		}
+		.row {
+    		width: 100%;
+    		margin-bottom: 20px;
+    		display: flex;
+		}
+		.col-1 {
+    		width: 8.33%;
+		}
+		.col-2 {
+    		width: 16.66%;
+		}
+		.col-3 {
+    		width: 24.99%;
+		}
+		.col-4 {
+    		width: 33.32%;
+		}
+		.col-5 {
+    		width: 41.65%;
+		}
+		.col-6 {
+    		width: 49.98%;
+		}
+		.col-7 {
+    		width: 58.31%;
+		}
+		.col-8 {
+    		width: 66.64%;
+		}
+		.col-9 {
+    		width: 74.97%;
+		}
+		.col-10 {
+    		width: 83.30%;
+		}
+		.col-11 {
+    		width: 91.63%;
+		}
+		.col-12 {
+    		width: 99,97%;
+		}
+		p {
+			padding: 0px 10px 0px 10px;
+		}
+		img {
+			padding: 0px 0px 0px 0px;
+		}
+		body {
+			background-color: #eeeeee;
+		}
+		h1 {
+			background-color: #ffffff;
+		}
+		*{
+			font-family: 'Raleway', sans-serif;
+		}
+		*{
+			-webkit-box-sizing: border-box;
+			-moz-box-sizing: border-box;
+			-ms-box-sizing: border-box;
+			box-sizing: border-box;
+		}
+		.image {
+			max-width: 260px;
+		}
+		.description {
+			max-width: 705px;
+		}
+		.app {
+			display: flex;
+			display: -webkit-flex;
+		}
+		.container img {
+			max-width: 50px;
+			max-height: 50px;
+			width: auto;
+			height: auto;
+		}
+	</style>
+</head>
+<body>
+	<h1 class="title">
+		<div class="grid">
+			<div class="row">
+				<div class="col-1">
+					<a href="https://www.instagram.com/anaisa.fonseca/" target="pareny"><img src="https://i.pinimg.com/564x/ef/45/9c/ef459c42f21ab56646cdd487ce0f57e9.jpg" width="90" height="90" align="middle"></a>
+				</div>
+				<div class="col-11">
+					<p align="right">Anaísa Fonseca</p>
+				</div>
+			</div>
+		</div>
+	</h1>
+	<div class="app">
+		<div class="grid">
+      		<div class="row">
+         	    <div class="col-8">
+        		    <p> Ta aí umas fotos que tiro quando bate a inspiração. Se quiser conferir alguma com mais detalhes ou outras fotos minhas é só clicar em uma das imagens e você vai ser redirecionado(a) pro meu perfil no Flickr.  :)</p>
+          	    </div>
+            	    <p></p>
+        	</div>
+        	<div class="row">
+        		<div class="col-4">
+        			<p><a href="https://flic.kr/p/Wqg58q" target="parent"><img src="https://i.pinimg.com/564x/05/12/3d/05123d025dfad12b37395bd60f290918.jpg" width="340" height="240"></a></p>
+        		</div>
+        		<div class="col-9"> </div>
+        		<div class="col-9">
+        			<p><a href="https://flic.kr/p/Vp2iTW" target="parent"><img src="https://i.pinimg.com/564x/ab/62/b5/ab62b5c906ce6613e9b6e5da7316a562.jpg" width="240" height="240"></a></p>
+        		</div>
+        		<div class="col-9"> </div>
+        		<div class="col-10">
+        			<p><a href="https://flic.kr/p/Wqg57o" target="parent"><img src="https://i.pinimg.com/564x/55/37/ee/5537eeb3321b3d86f6281380feca46e5.jpg" width="340" height="240"></a></p>
+        		</div>
+        	</div>
+        	<div class="row">
+        		<div class="col-4">
+        			<p><a href="https://flic.kr/p/W5WFD5" target="parent"><img src="https://i.pinimg.com/564x/b0/13/ad/b013ad4c8f48a138495176dae69d0309.jpg" width="340" height="240"></a></p>
+        		</div>
+        		<div class="col-9"> </div>
+        		<div class="col-9">
+        			<p><a href="https://flic.kr/p/WtB8A8" target="parent"><img src="https://i.pinimg.com/564x/99/f4/da/99f4da96e757f710002c67a43c184e40.jpg" width="240" height="240"></a></p>
+        		</div>
+        		<div class="col-9"> </div>
+        		<div class="col-10">
+        			<p><a href="https://flic.kr/p/WFdcXH" target="parent"><img src="https://i.pinimg.com/564x/00/e1/4b/00e14b8dc21e20376b1cb6445919d169.jpg" width="340" height="240"></a></p>
+        		</div>
+        	</div>
+        	<div class="row">
+        		<div class="col-4">
+        			<p><a href="https://flic.kr/p/WFbc3F" target="parent"><img src="https://i.pinimg.com/564x/8c/6d/0d/8c6d0d85d20a54bf51f3becd4e8d5d7f.jpg" width="340" height="240"></a></p>
+        		</div>
+        		<div class="col-9"> </div>
+        		<div class="col-9">
+        			<p><a href="https://flic.kr/p/W5UqDu" target="parent"><img src="https://i.pinimg.com/564x/f0/18/70/f018704b385df43de9f1da077e6f016f.jpg" width="240" height="240"></a></p>
+        		</div>
+        		<div class="col-9"> </div>
+        		<div class="col-10">
+        			<p><a href="https://flic.kr/p/VrEDhi" target="parent"><img src="https://i.pinimg.com/564x/a2/11/46/a21146cf7bc76581e31f50ba5f2cc4c8.jpg" width="340" height="240"></a></p>
+        		</div>
+        	</div>
+        	<div class="row">
+        		<div class="col-4">
+        			<p><a href="https://flic.kr/p/WJXgx4" target="parent"><img src="https://i.pinimg.com/564x/e1/97/ee/e197ee052d5e956f1f276358383dec98.jpg" width="340" height="240"></a></p>
+        		</div>
+        		<div class="col-9"> </div>
+        		<div class="col-9">
+        			<p><a href="https://flic.kr/p/WtURJU" target="parent"><img src="https://i.pinimg.com/564x/32/c4/c5/32c4c563373a0a8002fac05e1f0c4d51.jpg" width="240" height="240"></a></p>
+        		</div>
+        		<div class="col-9"> </div>
+        		<div class="col-10">
+        			<p><a href="https://flic.kr/p/WxhtZZ" target="parent"><img src="https://i.pinimg.com/564x/ad/4f/26/ad4f26cd4a2198072fc667e368673d31.jpg" width="340" height="240"></a></p>
+        		</div>
+        	</div>
+			<p align="right">instagram: @anaisa.fonseca</p>
+    	</div>
+    </div>
+</body>
+</html>
